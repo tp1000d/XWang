@@ -18,4 +18,4 @@ You can find my CV here: [Xinquan Wang's Curriculum Vitae](https://github.com/tp
 
 Feel free to contact me at [Email](mailto:wangxinquan@zju.edu.cn)
 
-Related pages: [Github](https://github.com/tp1000d) /  [Google Scholar](https://scholar.google.com/citations?user=uvIxTL8AAAAJ)
+Related pages: [Github](https://github.com/tp1000d) /  [Google Scholar](https://scholar.google.com/citations?user=uvIxTL8AAAAJ) / [IEEE Author Page](https://ieeexplore.ieee.org/author/994299095986538)
