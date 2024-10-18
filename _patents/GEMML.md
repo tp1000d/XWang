@@ -12,4 +12,4 @@ Chinese Name: 基于流形元学习的RIS辅助鲁棒性波束赋形设计方法
 
 Only the Chinese name is official.
 
-This is a patent right for inventions. This patent is granted under code 2024100876989.
+This is a patent right for inventions. This patent is granted under code ZL 2024 1 0087698.9.
