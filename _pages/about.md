@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/091ae33a-6e8d-4dc3-b0d1-302a76cc16e4)---
+---
 permalink: /
 title: "Xinquan Wang"
 author_profile: true
