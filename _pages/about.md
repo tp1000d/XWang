@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/091ae33a-6e8d-4dc3-b0d1-302a76cc16e4)---
 permalink: /
 title: "Xinquan Wang"
 author_profile: true
@@ -8,9 +8,9 @@ redirect_from:
 ---
 I'm a undergraduate student from [School of ISEE](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). My research interest includes AI, wireless communcations, deep learning for science, etc.
 
-+ I proposed a gradient-based method for multi-variable joint optimization in improving the QoS of RIS-aided wireless networks with ML. This research project has been accepted and orally presented at [IEEE ICC 2024](https://ieeexplore.ieee.org/document/10620247) (IEEE ComSoc Student Grant awarded) and published on [IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/document/10622978). I also produced 3 patents, which are currently under review by the State Intellectual Property Office.
++ I developed a gradient-based manifold meta-learning (GMML) method to address the non-convex beamforming optimization problem in reconfigurable intelligent surface (RIS)-assisted wireless networks. By inputting the gradient of the optimization objective into neural networks and projecting the optimization space onto a lower-dimensional manifold, the GMML method significantly enhances weighted sum rate (WSR) performance. It achieves a 7.31% higher WSR than existing methods, offers 23 times faster convergence, and maintains strong robustness under any level of input noise. This research was accepted for oral presentation at [IEEE ICC 2024](https://ieeexplore.ieee.org/document/10620247)—where I received the IEEE ComSoc Student Grant—and was published in [IEEE Transactions on Wireless Communication](https://ieeexplore.ieee.org/document/10622978)s. Additionally, it resulted in one granted patent and two patents currently under substantive examination by the State Intellectual Property Office.
 
-+ I used model driven ODE-based NNs to address the input robustness and computational complexity issue in beamforming for MIMO mmWave communications. The proposed model can work without extensive pretraining, and can self-adapt to the scenario at deployment, and obtain significantly higher robustness to channel estimation inaccuracy with only 1.6% of time consumption that of WMMSE. This work is currently published at [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/document/10623434) and accepted by IEEE Globecom.
++ In another project, I utilized model-driven ordinary differential equation-based neural networks, specifically liquid neural networks (LNNs), to tackle input robustness and computational complexity issues in beamforming for millimeter-wave (mmWave) MIMO communications. The proposed gradient-based neural network (GLNN) framework can self-adapt to dynamic deployment scenarios without extensive pretraining. It achieves significantly higher robustness to channel estimation inaccuracies while using only 1.67% of the CPU time required by traditional methods like WMMSE. This work was published in[ IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/document/10623434) and accepted for presentation at IEEE Globecom. It also led to a patent and was submitted as a standard proposal for the IMT-2030 Promotion Group.
 
 Please refer [my publications](https://tp1000d.github.io/XWang/publications/) for papers and [my patents](https://tp1000d.github.io/XWang/patents/) for patents.
 
