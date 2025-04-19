@@ -6,8 +6,8 @@ permalink: /publication/2024-11-01-robust-beamforming-ris-gmml
 excerpt: 'This paper introduces a gradient-based manifold meta learning method (GMML) for robust beamforming in RIS-aided communications, enhancing spectral efficiency and adaptability without pre-training.'
 date: 2024-11-01
 venue: 'IEEE Transactions on Wireless Communications'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/pdf/2402.10626'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10623434'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'F. Zhu, X. Wang et al. &quot;Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning.&quot; <i> in IEEE Transactions on Wireless Communications</i>. 23(11), 15945-15956.'
 ---

@@ -11,11 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Information Engineering, Zhejiang University, 2025
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -30,8 +28,8 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Supervisor: Professor Git -->
+<!--   
 Skills
 ======
 * Skill 1
@@ -39,7 +37,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -61,4 +59,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member in Technical Program Committee: IEEE VTC Spring 2025, IEEE VTC Fall 2025
+* Reviewer for Journals: IEEE Communication Letters, Physical Communication, Digital Communications and Networks, and Signal Processing, Engineering Applications of Artificial Intelligence
+* Reviewer for Conferences: IEEE ICCC 2024, IEEE WCSP 2024, IEEE VTC Spring 2025, IEEE VTC Fall 2025
