@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xinquan Wang/homepage"
+title                    : "Xinquan Wang"
 title_separator          : "-"
 name                     : &name "Xinquan Wang"
 description              : &description "personal description"
-url                      : "https://tp1000d.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://tp1000d.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/XWang" # the subpath of your site, e.g. "/blog"
 repository               : "tp1000d/tp1000d.github.io"
 
@@ -38,19 +38,19 @@ author:
   orcid            : "https://orcid.org/0009-0005-9986-7054"
   semantic         : "https://www.semanticscholar.org/author/Xinquan-Wang/2266421680"# URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Xinquan-Wang-8"# URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58718187000" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "tp1000d"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "suber-26-55"# Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
