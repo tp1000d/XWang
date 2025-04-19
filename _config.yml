@@ -13,7 +13,7 @@ title                    : "Xinquan Wang/homepage"
 title_separator          : "-"
 name                     : &name "Xinquan Wang"
 description              : &description "personal description"
-url                      : https://tp1000d.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://tp1000d.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -29,15 +29,15 @@ author:
   location         : "Hangzhou China"
   employer         : "Zhejiang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangxinquan@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=uvIxTL8AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-9986-7054"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
